@@ -1,4 +1,4 @@
-# NeuralNetworks_and_DL_Deep_learning
+# Neural_Networks_and_Deep_learning
 Repo contains programming assignments from the course Neural networks and Deep learning, course1 from Deep Learning Specialization on Coursera(Deep Learning.AI).
   - Programming assignments in this course was aimed at binary classication with :
       - logistic regression (1-hidden layer)
